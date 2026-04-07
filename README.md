@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Yash Jharbade 👋
 
-<!--
-**yashjharbade/yashjharbade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 2nd-year B.Tech student in **Electronics and Communication Engineering (ECE)** at **IIIT Bhopal**, passionate about bridging hardware design with data intelligence. My primary focus areas are VLSI Circuit Design, UAV Control Logic, and Generative AI applications.
 
-Here are some ideas to get you started:
+### 🔬 What I'm working on:
+* Translating digital logic concepts into simulated hardware using Verilog.
+* Exploring the intersection of AI models and data analytics to extract actionable insights.
+* Studying UAV flight mechanics and preparing to develop core flight controller logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Arsenal
+* **Languages:** Python, Verilog, C/C++
+* **Engineering Tools:** Xilinx Vivado, MATLAB, Arduino IDE
+* **Core Domains:** VLSI Design, Digital Logic, Signal Processing, Data Analytics
+
+### 📫 Let's Connect
+* **LinkedIn:** [www.linkedin.com/in/yashjharbade]
+* **Email:** [yashjharbade2006job@gmail.com]
